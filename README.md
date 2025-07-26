@@ -1,10 +1,10 @@
-**DEPRACATED - Emergency Lighting System!**
+**FIXED - Emergency Lighting System!**
 
-**THIS IS DEPRECATED - PLEASE SEE THE NEW VERSION OVER AT https://fivem.dragonhive.co.uk**
+**THIS WAS DEPRECATED AND FIXED BY ME (JB-Scripts)**
 
 ### Description
 
-EmergencyLS is an all-in-one configurable Emergency Lighting System for the popular Grand Theft Auto V (GTA V) Modification, FiveM. We kept it simple, allowing generic ELS XML Configurations to work alongside our system.
+This ELS System is an all-in-one configurable Emergency Lighting System for the popular Grand Theft Auto V (GTA V) Modification, FiveM. We kept it simple, allowing generic ELS XML Configurations to work alongside our system.
 
 The server-side element restricts controls to the driver and allows the driver to activate primary, secondary & warning lighting each with individually configurable key-bindings. Welcome to the best server-sided Emergency Lighting System for FiveM.
 
@@ -23,7 +23,3 @@ The server-side element restricts controls to the driver and allows the driver t
 * ELS Beeps
 * Indicators
 
-## Video Demonstration (+ Install)
-https://www.youtube.com/watch?v=MZnO9eIjFWA&t=54s
-
-# **All instructions for install and use are included in the readme file included with the download :)** 
